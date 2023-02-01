@@ -7,7 +7,7 @@ Common challenges for Javascript
 - [isUnique](https://github.com/mtorre4580/cracking-interview-js/tree/main/isUnique)
 - [URLify](https://github.com/mtorre4580/cracking-interview-js/tree/main/urlify)
 
-## Start
+## Start
 
 Install dependencies `npm i`
 
