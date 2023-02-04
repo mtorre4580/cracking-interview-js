@@ -8,7 +8,7 @@ class Node {
 class SinglyLinkedList {
   constructor() {
     this.size = 0;
-    this.value = new Node();
+    this.value = null;
   }
 
   insertAtEnd(value) {

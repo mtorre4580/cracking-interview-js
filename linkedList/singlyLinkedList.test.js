@@ -21,7 +21,7 @@ describe("SinglyLinkedList", () => {
           value: 3,
           next: {
             value: 2,
-            next: { value: 1, next: { value: null, next: null } },
+            next: { value: 1, next: null },
           },
         },
       },
