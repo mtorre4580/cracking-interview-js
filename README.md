@@ -9,6 +9,7 @@ Common challenges for Javascript
 - [stringCompression](https://github.com/mtorre4580/cracking-interview-js/tree/main/stringCompression)
 - [linkedList](https://github.com/mtorre4580/cracking-interview-js/tree/main/linkedList)
 - [mapFilterReduce](https://github.com/mtorre4580/cracking-interview-js/tree/main/mapFilterReduce)
+- [sleep](https://github.com/mtorre4580/cracking-interview-js/tree/main/sleep)
 
 ## Start
 
