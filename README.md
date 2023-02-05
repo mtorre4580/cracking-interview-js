@@ -8,6 +8,7 @@ Common challenges for Javascript
 - [URLify](https://github.com/mtorre4580/cracking-interview-js/tree/main/urlify)
 - [stringCompression](https://github.com/mtorre4580/cracking-interview-js/tree/main/stringCompression)
 - [linkedList](https://github.com/mtorre4580/cracking-interview-js/tree/main/linkedList)
+- [mapFilterReduce](https://github.com/mtorre4580/cracking-interview-js/tree/main/mapFilterReduce)
 
 ## Start
 
