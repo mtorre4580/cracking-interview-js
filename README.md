@@ -12,6 +12,7 @@ Common challenges for Javascript
 - [sleep](https://github.com/mtorre4580/cracking-interview-js/tree/main/sleep)
 - [search](https://github.com/mtorre4580/cracking-interview-js/tree/main/search)
 - [sort](https://github.com/mtorre4580/cracking-interview-js/tree/main/sort)
+- [queue](https://github.com/mtorre4580/cracking-interview-js/tree/main/queue)
 
 ## Start
 
