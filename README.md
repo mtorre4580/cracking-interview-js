@@ -11,6 +11,7 @@ Common challenges for Javascript
 - [mapFilterReduce](https://github.com/mtorre4580/cracking-interview-js/tree/main/mapFilterReduce)
 - [sleep](https://github.com/mtorre4580/cracking-interview-js/tree/main/sleep)
 - [search](https://github.com/mtorre4580/cracking-interview-js/tree/main/search)
+- [sort](https://github.com/mtorre4580/cracking-interview-js/tree/main/sort)
 
 ## Start
 
