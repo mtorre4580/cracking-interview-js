@@ -10,6 +10,7 @@ Common challenges for Javascript
 - [linkedList](https://github.com/mtorre4580/cracking-interview-js/tree/main/linkedList)
 - [mapFilterReduce](https://github.com/mtorre4580/cracking-interview-js/tree/main/mapFilterReduce)
 - [sleep](https://github.com/mtorre4580/cracking-interview-js/tree/main/sleep)
+- [search](https://github.com/mtorre4580/cracking-interview-js/tree/main/search)
 
 ## Start
 
