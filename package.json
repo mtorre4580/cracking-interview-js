@@ -1,7 +1,7 @@
 {
   "name": "cracking-interview",
   "version": "1.0.0",
-  "description": "Algorithms challenges in javascript",
+  "description": "Algorithms / Data Structures challenges in javascript",
   "scripts": {
     "test": "jest"
   },

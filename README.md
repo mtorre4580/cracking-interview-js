@@ -14,6 +14,7 @@ Common challenges for Javascript
 - [linkedList](https://github.com/mtorre4580/cracking-interview-js/tree/main/linkedList)
 - [queue](https://github.com/mtorre4580/cracking-interview-js/tree/main/queue)
 - [stack](https://github.com/mtorre4580/cracking-interview-js/tree/main/stack)
+- [tree](https://github.com/mtorre4580/cracking-interview-js/tree/main/tree)
 
 ## Start
 
