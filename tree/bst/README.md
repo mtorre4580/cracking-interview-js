@@ -2,6 +2,8 @@
 
 The value of left node must be smaller that the parent node and the value of the right node must be greather than the parent node.
 
+<img src="https://github.com/mtorre4580/cracking-interview-js/blob/main/tree/bst/bst.png" alt="bst" />
+
 ```
 const tree = {
   value: 40,
