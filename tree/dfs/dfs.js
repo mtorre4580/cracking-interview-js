@@ -2,7 +2,9 @@ function transversalPreOrder() {
   const stack = [];
 
   return function walk(node) {
-    if (!node) return stack;
+    if (!node) {
+      return stack;
+    }
 
     stack.push(node.value);
 
@@ -17,7 +19,9 @@ function transversalInOrder() {
   const stack = [];
 
   return function walk(node) {
-    if (!node) return stack;
+    if (!node) {
+      return stack;
+    }
 
     walk(node.left);
 
@@ -33,7 +37,9 @@ function transversalPostOrder() {
   const stack = [];
 
   return function walk(node) {
-    if (!node) return stack;
+    if (!node) {
+      return stack;
+    }
 
     walk(node.left);
     walk(node.right);
@@ -44,12 +50,8 @@ function transversalPostOrder() {
   };
 }
 
-const preOrder = transversalPreOrder();
-const inOrder = transversalInOrder();
-const postOrder = transversalPostOrder();
-
 module.exports = {
-  preOrder,
-  inOrder,
-  postOrder,
+  transversalPreOrder,
+  transversalInOrder,
+  transversalPostOrder,
 };

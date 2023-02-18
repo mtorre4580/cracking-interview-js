@@ -1,15 +1,6 @@
-# DFS (Deep First Search Tree)
+const compare = require("./compareTree");
 
-Deep First Search Tree, algorithm for traversing or searching tree
-
-## Transversal
-
-- Pre Order
-- In Order
-- Post Order
-
-```
-const tree = {
+const treeA = {
   value: "A",
   right: {
     value: "B",
@@ -32,13 +23,13 @@ const tree = {
       left: null,
     },
   },
+  left: null,
 };
-```
 
-## Examples
+const treeB = { ...treeA };
 
-- preOrder `["A", "B", "D", "F", "C", "E"];`
-
-- inOrder `["A", "D", "F", "B", "E", "C"];`
-
-- postOrder `["F", "D", "E", "C", "B", "A"];`
+describe("compareTree", () => {
+  test("should return true, the tree are the same", () => {
+    expect(compare(treeA, treeB)).toBeTruthy();
+  });
+});
